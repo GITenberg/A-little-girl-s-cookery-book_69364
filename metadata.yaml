@@ -1,0 +1,33 @@
+_repo: A-little-girl-s-cookery-book_69364
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Benton, Caroline French
+    alias: Burrell, Caroline Frances Benedict
+    deathdate: 1923
+    gutenberg_agent_id: '6759'
+    url: http://www.gutenberg.org/2009/agents/6759
+    wikipedia: https://en.wikipedia.org/wiki/Caroline_French_Benton
+  - agent_name: Hodge, Mary Florence
+    gutenberg_agent_id: '55227'
+    url: http://www.gutenberg.org/2009/agents/55227
+description: ''
+gutenberg_issued: '2022-11-16'
+identifiers:
+  gutenberg: '69364'
+language: en
+pgterms:marc905: 20221022163952benton
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: David E. Brown, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Mills & Boon, Limited,1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking -- Juvenile literature'
+- !lcc 'TX'
+- GITenberg
+title: A little girl's cookery book
+url: http://www.gutenberg.org/ebooks/69364
